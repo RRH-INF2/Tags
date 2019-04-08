@@ -21,7 +21,7 @@
 //    }
 // }
 
-enum Tag {
+enum Tag { // Ajout RRH
    CITIES("Cities"), CITY("City"), NAME("Name"), STATE("State"), COORDINATES("Coordinates");
    
    private final String label;
