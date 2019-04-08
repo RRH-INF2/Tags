@@ -24,7 +24,7 @@
 enum Tag {
    CITIES("Cities"), CITY("City"), NAME("Name"), STATE("State"), COORDINATES("Coordinates");
    
-   private final String label;
+   private final String label; // new
    
    Tag(String label) {
       this.label = label;
